@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import {Component} from '@angular/core';
+import OpenActivity from '../../plugins/open-activity';
 
 @Component({
   selector: 'app-home',
@@ -9,4 +10,11 @@ export class HomePage {
 
   constructor() {}
 
+  openJava() {
+    OpenActivity.openJava();
+  }
+
+  openKotlin() {
+    OpenActivity.openKotlin();
+  }
 }

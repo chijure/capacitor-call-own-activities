@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="app_name">call-own-activities</string>
+  <string name="title_activity_main">call-own-activities</string>
+  <string name="package_name">com.reateguisolisjm.callownactivities</string>
+  <string name="custom_url_scheme">com.reateguisolisjm.callownactivities</string>
+</resources>
